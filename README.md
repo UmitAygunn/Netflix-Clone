@@ -4,7 +4,7 @@ This project is a Netflix clone created using HTML and CSS.
 
 # Demo
 Live Demo - You can check out the live demo of the Netflix clone here.
-https://app.netlify.com/sites/shimmering-platypus-8d1bed/deploys/6533890f12f6947d0af5d879
+https://6533890f12f6947d0af5d879--shimmering-platypus-8d1bed.netlify.app/
 
 # Features
 
