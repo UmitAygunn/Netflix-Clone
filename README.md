@@ -3,6 +3,9 @@
 This project is a Netflix clone created using HTML and CSS.
 
 # Demo
+
+![Netflix Clone](https://github.com/UmitAygunn/Netflix-Clone/assets/140657845/f3887699-2f1e-4931-bebb-705f586df113)
+
 Live Demo - You can check out the live demo of the Netflix clone here.
 https://6533890f12f6947d0af5d879--shimmering-platypus-8d1bed.netlify.app/
 
